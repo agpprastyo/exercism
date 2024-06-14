@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/dart/armstrong-numbers/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/armstrong-numbers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/armstrong-numbers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/diamond/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/diamond/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/diamond/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/hello-world/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/hello-world/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/hello-world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/leap/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/leap/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/leap/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/scrabble-score/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/scrabble-score/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/scrabble-score/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/two-fer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/two-fer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/two-fer/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
