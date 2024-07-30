@@ -21,6 +21,9 @@
       <excludeFolder url="file://$MODULE_DIR$/dart/two-fer/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/dart/two-fer/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart/two-fer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/eliuds-eggs/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/eliuds-eggs/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart/eliuds-eggs/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
